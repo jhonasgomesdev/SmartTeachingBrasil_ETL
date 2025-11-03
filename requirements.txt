@@ -1,0 +1,9 @@
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+scikit-learn
+joblib
+fastapi
+uvicorn[standard]
+python-dotenv
